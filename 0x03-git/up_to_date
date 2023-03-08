@@ -1,4 +1,1 @@
-git addd .
-git commit
-git push
-
+git pull origin main 
